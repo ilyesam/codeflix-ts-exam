@@ -1,0 +1,1 @@
+Affichage du contenu d'un fichier text.
